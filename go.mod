@@ -1,4 +1,4 @@
-module tim.com/common
+module github.com/123tim123/tim-common
 
 go 1.20
 
